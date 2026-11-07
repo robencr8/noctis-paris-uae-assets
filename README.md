@@ -36,3 +36,7 @@
 ## Instagram Stories
 
 The `stories/` directory contains six ready-to-publish 1080×1920 Instagram Stories: four product stories, one offers story, and one WhatsApp order CTA.
+
+## Bilingual Posts and Page Setup
+
+The `bilingual_posts/` directory contains Arabic/English versions of all four product posts at 1080×1080, bilingual captions, and the corrected Instagram/Facebook page setup copy. Prices remain in captions only; no prices are embedded in the feed post images.
