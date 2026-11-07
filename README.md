@@ -32,3 +32,7 @@
 
 ## تنبيه إنتاجي
 تم تجاهل الأسعار القديمة الموجودة في الملف 07 (695 / 725) تماماً. استُخدم الملف 07 للشكل والمزاج البصري فقط. لا يوجد أي IBAN أو رقم حساب بنكي في الحزمة.
+
+## Instagram Stories
+
+The `stories/` directory contains six ready-to-publish 1080×1920 Instagram Stories: four product stories, one offers story, and one WhatsApp order CTA.
